@@ -1,0 +1,9 @@
+{
+  "name": "asperation",
+  "description": "A new game",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "angular": "angular2#^1.5.8"
+  }
+}
